@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Glitch&size=30&letterSpacing=px-wide&pause=1000&color=007EF7&background=FFF9F900&center=true&width=435&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF+%F0%9F%91%8B+;Moi+c'est+Senpai+!+%F0%9F%91%BE" alt="Typing SVG" /></a>
 
 <br />
